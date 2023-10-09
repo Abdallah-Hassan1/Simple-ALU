@@ -1,4 +1,4 @@
-<h3 style="display: inline;">Details:</h3>
+<h3 style="display: inline-block;">Details:</h3>
 [Simple ALU.pdf](https://github.com/Abdallah-Hassan1/Simple-ALU/files/12840262/Simple.ALU.pdf)
 
 <h3>Final output</h3>
