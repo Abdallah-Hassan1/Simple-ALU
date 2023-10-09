@@ -1,4 +1,4 @@
-<span style="font-size: 30px;">Details: </span>
+<span style="font-size: 50px;">Details: </span>
 <a href="https://github.com/Abdallah-Hassan1/Simple-ALU/files/12840262/Simple.ALU.pdf">Simple Alu</a>
 
 <h3>Final output</h3>
